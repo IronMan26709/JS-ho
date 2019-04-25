@@ -1,0 +1,19 @@
+.wrap{
+	width:700px; 
+	margin:0 auto;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	align-items: center;
+}
+.wrap section{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	align-items: center;
+	margin: 0 auto;
+	width: 500px;
+}
+object{
+	margin-top: 20px;
+}
